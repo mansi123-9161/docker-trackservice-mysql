@@ -1,4 +1,4 @@
 Description---
-docerising mysql and spring boot application
+docerizing mysql and spring boot application
 
 
